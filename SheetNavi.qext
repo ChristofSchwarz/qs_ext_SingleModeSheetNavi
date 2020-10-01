@@ -1,0 +1,16 @@
+{
+    "name": "Sheet/\\Navigation",
+    "description": "Sheet Navigation for single mode",
+    "type": "visualization",
+    "version": "1.0.0",
+    "icon": "extension",
+    "author": "Christof Schwarz",
+    "homepage": "www.databridge.ch",
+    "preview": "databridgelogo.png",
+    "keywords": "qlik-sense, visualization",
+    "license": "",
+    "repository": "",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}
